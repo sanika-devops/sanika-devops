@@ -3,8 +3,7 @@
 
 💡 Passionate about simplifying infrastructure, automating workflows, and building scalable systems.  
 
---------------------------------------------------------------------------------------------------------------------
-
+------------
 ## 🔥 Featured Projects  
 🛠️ Hands-on implementations of **DevOps, Cloud, and Automation**  
 
