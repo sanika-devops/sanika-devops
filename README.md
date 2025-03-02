@@ -7,7 +7,7 @@
 ## 🔥 Featured Projects  
 🛠️ Hands-on implementations of **DevOps, Cloud, and Automation**  
 
-🔹 **[🚀 Automated LAMP Stack Deployment](https://github.com/yourusername/lamp-deployment)**  
+🔹 **[🚀 Automated LAMP Stack Deployment](https://github.com/sanika-devops/lamp-deployment)**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 **Tech:** Bash, Linux, Apache, MySQL, PHP  
 &nbsp;&nbsp;&nbsp;&nbsp;🔸 **Built a one-click script** to set up a web server & database.  
 
